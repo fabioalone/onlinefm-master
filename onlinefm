@@ -1,0 +1,18 @@
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8">
+<title>Fabian Madrid</title>
+<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Mono:500" rel="stylesheet">
+</head>
+<body>
+    <p>Fabian Madrid<br>	
+	<br>
+	<a href="book.pdf">child support zine </a></p>	
+	<h1><a href="mailto:madridf99@gmail.com"> madridf99@gmail.com </a>
+	<br>+1 512-348-5007</h1>
+</body>
+</html>
